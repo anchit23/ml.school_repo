@@ -1,0 +1,10 @@
+# | filename: requirements.txt
+# | code-line-numbers: true
+
+sagemaker-training
+packaging
+keras
+pandas
+scikit-learn
+comet_ml
+jax[cpu]
