@@ -2,5 +2,4 @@
 #| filename: requirements.txt
 #| code-line-numbers: false
 
-comet_ml
-torch==2.2.0
+comet-ml
