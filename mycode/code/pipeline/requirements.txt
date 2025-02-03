@@ -1,0 +1,6 @@
+#| filename: requirements.txt
+#| code-line-numbers: true
+
+numpy
+pandas
+scikit-learn==1.2.1
